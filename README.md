@@ -1,4 +1,6 @@
 # graphql-client-test
+https://www.udemy.com/share/1038qmAEMTdV5RRHg=/
+のクライアントサイド
 
 ## Project setup
 ```
